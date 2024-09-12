@@ -39,7 +39,8 @@ This project is a simple banking application built with React and Redux. It allo
 
 ### Running the Application
 
-To start the development server, run:npm start
+To start the development server, run: npm start
+
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
 ## Usage
